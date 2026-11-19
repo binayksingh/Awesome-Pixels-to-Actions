@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this list, please cite the accompanying review article."
+title: "Awesome Pixels-to-Actions: a curated list for the P2A hierarchy of spatiotemporal understanding"
+type: dataset
+repository-code: "https://github.com/binayksingh/Awesome-Pixels-to-Actions"
+license: CC0-1.0
+authors:
+  - family-names: "Singh"
+    given-names: "Binay Kumar"
+    affiliation: "University of Central Florida"
+  - family-names: "Da Vitoria Lobo"
+    given-names: "Niels"
+    affiliation: "University of Central Florida"
+preferred-citation:
+  type: article
+  title: "From Pixels to Actions: A Comprehensive Review of Spatiotemporal Understanding from Visual Perception to Vision-Language-Action Models"
+  authors:
+    - family-names: "Singh"
+      given-names: "Binay Kumar"
+    - family-names: "Da Vitoria Lobo"
+      given-names: "Niels"
+  journal: "Journal of Imaging"
+  year: 2026
+  notes: "Under review. Update volume, pages and DOI on publication."
